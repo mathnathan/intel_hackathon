@@ -9,7 +9,7 @@ from torch.nn import functional as F
 #from sklearn.neighbors import KDTree
 import os, sys
 import numpy as np
-import utils as u
+#import utils as u
 #from IPython import embed
 
 # Feed-forward networks
